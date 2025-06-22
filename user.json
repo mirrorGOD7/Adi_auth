@@ -1,1 +1,22 @@
-[{"username":"1","password":"1","expiry":"2025-06-30","hwid":[]},{"username":"Harsh","password":"1","expiry":"2025-07-14","hwid":["63b8000254cad769tarosamsungb0qTP1A.220624.014"]}]
+[
+    {
+        "username": "1",
+        "password": "1",
+        "expiry": "2025-06-30",
+        "hwid": []
+    },
+    {
+        "username": "Harsh",
+        "password": "1",
+        "expiry": "2025-07-14",
+        "hwid": [
+            "63b8000254cad769tarosamsungb0qTP1A.220624.014"
+        ]
+    },
+    {
+        "username": "Tester",
+        "password": "1",
+        "expiry": "2025-07-14",
+        "hwid": []
+    }
+]

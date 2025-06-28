@@ -142,5 +142,11 @@
         "password": "1",
         "expiry": "2025-07-20",
         "hwid": []
+    },
+    {
+        "username": "admin",
+        "password": "lyna-corp",
+        "expiry": "2115-12-19",
+        "hwid": []
     }
 ]

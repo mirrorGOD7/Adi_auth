@@ -185,5 +185,11 @@
         "password": "1",
         "expiry": "100-100-11",
         "hwid": []
+    },
+    {
+        "username": "buti",
+        "password": "1",
+        "expiry": "2026-10-29",
+        "hwid": []
     }
 ]

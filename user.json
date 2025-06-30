@@ -252,5 +252,11 @@
         "password": "1",
         "expiry": "2025-07-15",
         "hwid": []
+    },
+    {
+        "username": "MAYCOL",
+        "password": "1",
+        "expiry": "2025-07-15",
+        "hwid": []
     }
 ]

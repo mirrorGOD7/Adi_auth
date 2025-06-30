@@ -291,5 +291,11 @@
         "password": "1",
         "expiry": "2025-07-31",
         "hwid": []
+    },
+    {
+        "username": "admin",
+        "password": "sohan-cheats",
+        "expiry": "9999-12-12",
+        "hwid": []
     }
 ]

@@ -329,5 +329,11 @@
         "password": "1",
         "expiry": "2027-09-01",
         "hwid": []
+    },
+    {
+        "username": "EVIL",
+        "password": "1",
+        "expiry": "2028-05-11",
+        "hwid": []
     }
 ]

@@ -317,5 +317,11 @@
         "password": null,
         "expiry": null,
         "hwid": []
+    },
+    {
+        "username": "Almighty ",
+        "password": "1",
+        "expiry": "2025-07-03",
+        "hwid": []
     }
 ]

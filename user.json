@@ -311,5 +311,11 @@
         "password": "1",
         "expiry": "2025-07-03",
         "hwid": []
+    },
+    {
+        "username": null,
+        "password": null,
+        "expiry": null,
+        "hwid": []
     }
 ]

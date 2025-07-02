@@ -10,5 +10,11 @@
         "password": "Lundke",
         "expiry": "2025-07-02",
         "hwid": []
+    },
+    {
+        "username": "MASACRE",
+        "password": "1",
+        "expiry": "2025-07-15",
+        "hwid": []
     }
 ]

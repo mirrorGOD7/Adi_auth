@@ -1,1 +1,62 @@
-[{"username":"insane","password":"9090","expiry":"2025-07-01","hwid":[]},{"username":"Lere","password":"Lundke","expiry":"2025-07-02","hwid":[]},{"username":"MASACRE","password":"1","expiry":"2025-07-15","hwid":[]},{"username":"MAYCOL","password":"1","expiry":"2025-07-15","hwid":[]},{"username":"KNIGHT","password":"1","expiry":"2025-07-31","hwid":["bc46ff60efb87437msmnileasusASUS_I001_1QKQ1.190825.002"]},{"username":"Almighty","password":"1","expiry":"2025-07-03","hwid":[]},{"username":"region","password":"1","expiry":"2025-07-10","hwid":["27fd84957cb92a74msm8998OnePlusOnePlus5NMF26X"]},{"username":"ALEJANDRO","password":"1","expiry":"2025-07-12","hwid":["a3ff719de050dbf1msmnileasusASUS_I001_1PPR1.180720.122"]}]
+[
+    {
+        "username": "insane",
+        "password": "9090",
+        "expiry": "2025-07-01",
+        "hwid": []
+    },
+    {
+        "username": "Lere",
+        "password": "Lundke",
+        "expiry": "2025-07-02",
+        "hwid": []
+    },
+    {
+        "username": "MASACRE",
+        "password": "1",
+        "expiry": "2025-07-15",
+        "hwid": []
+    },
+    {
+        "username": "MAYCOL",
+        "password": "1",
+        "expiry": "2025-07-15",
+        "hwid": []
+    },
+    {
+        "username": "KNIGHT",
+        "password": "1",
+        "expiry": "2025-07-31",
+        "hwid": [
+            "bc46ff60efb87437msmnileasusASUS_I001_1QKQ1.190825.002"
+        ]
+    },
+    {
+        "username": "Almighty",
+        "password": "1",
+        "expiry": "2025-07-03",
+        "hwid": []
+    },
+    {
+        "username": "region",
+        "password": "1",
+        "expiry": "2025-07-10",
+        "hwid": [
+            "27fd84957cb92a74msm8998OnePlusOnePlus5NMF26X"
+        ]
+    },
+    {
+        "username": "ALEJANDRO",
+        "password": "1",
+        "expiry": "2025-07-12",
+        "hwid": [
+            "a3ff719de050dbf1msmnileasusASUS_I001_1PPR1.180720.122"
+        ]
+    },
+    {
+        "username": "LUIS",
+        "password": "1",
+        "expiry": "2025-07-20",
+        "hwid": []
+    }
+]

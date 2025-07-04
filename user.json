@@ -16,5 +16,11 @@
         "password": "1",
         "expiry": "2025-07-14",
         "hwid": []
+    },
+    {
+        "username": "region",
+        "password": "1",
+        "expiry": "2025-07-20",
+        "hwid": []
     }
 ]

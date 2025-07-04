@@ -40,5 +40,11 @@
         "password": "1",
         "expiry": "2025-07-31",
         "hwid": []
+    },
+    {
+        "username": "giveaway",
+        "password": "ashish",
+        "expiry": "2025-07-10",
+        "hwid": []
     }
 ]

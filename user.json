@@ -4,5 +4,11 @@
         "password": "9090",
         "expiry": "2025-07-04",
         "hwid": []
+    },
+    {
+        "username": "LUIS",
+        "password": "1",
+        "expiry": "2025-07-14",
+        "hwid": []
     }
 ]
